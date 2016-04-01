@@ -1,0 +1,11 @@
+1、下载至本地后直接调用iconfont.css即可使用iconfont图标（demo.css为iconfont的伴生样式，即使不用也可以使用图标）
+
+
+
+
+
+
+
+
+
+
